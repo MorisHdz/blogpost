@@ -43,6 +43,7 @@ body{
 }
 
 #post{
+    text-align: center;
     background: #ddd;
     padding: 1em;
 }
